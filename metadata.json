@@ -1,0 +1,5 @@
+{
+  "name": "Poker Lecture Subtitle Translator",
+  "description": "An AI-powered web application that translates English poker lecture videos into Vietnamese. It features a unique capability to 'teach' the AI by allowing users to build a custom glossary for academic poker terminology, ensuring highly accurate and context-aware subtitles.",
+  "requestFramePermissions": []
+}
